@@ -1,5 +1,5 @@
-Herzylich Willkommen zu Eressea!
-================================
+Herzlich Willkommen zu Eressea!
+===============================
 
 **Eressea** (/lu'make/) ist ein Postspiel.
 
