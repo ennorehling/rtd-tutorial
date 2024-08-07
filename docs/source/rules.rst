@@ -1,3 +1,6 @@
+Regeln
+======
+
 .. toctree::
    :maxdepth: 2
 
