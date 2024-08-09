@@ -14,6 +14,7 @@ Inhalt
 --------
 
 .. toctree::
+   :maxdepth: 2
 
    rules
    appendix
