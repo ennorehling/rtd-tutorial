@@ -15,7 +15,26 @@ Inhalt
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
+   :caption: Regeln
 
-   rules
+   rules/intro
+   rules/world
+   rules/faction
+   rules/races
+   rules/skills
+   rules/stealth
+   rules/travel
+   rules/production
+   rules/faction-pool
+   rules/money
+   rules/item-pool
+   rules/combat
+   rules/modifiers
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Anhang
+   
    appendix
-   tools
