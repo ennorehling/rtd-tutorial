@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+Documentation for Eressea
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository contains the Sphinx docs for the German-language manual
+of Eressea.
 
-Read the tutorial here:
+Read about the game here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://www.eressea.de/
