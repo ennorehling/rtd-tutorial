@@ -169,10 +169,10 @@ allerdings noch ein Bergwerk.
 
 Für die nachfolgende Region werden die Informationen ausführlich erläutert:
 
-```
-Vîpot (3,-4), Wüste, 0/1 Bäume, 22 Steine/3, 190 Bauern, 5765 Silber,
-36 Pferde. 
-```
+::
+
+  Vîpot (3,-4), Wüste, 0/1 Bäume, 22 Steine/3, 190 Bauern, 5765 Silber,
+  36 Pferde. 
 
 Die Region trägt den Namen "Vîpot" und hat die Koordinaten (3,-4) vom URSPRUNG
 der Partei aus gesehen. Ein anderer Spieler - mit einem anderen URSPRUNG - kennt
@@ -221,15 +221,13 @@ Die Regionen Eresseas
 
 Im Report werden alle Regionen, in denen man eine Einheit hat, durch die man
 gereist ist oder Ozean-Regionen, die man von einem Leuchtturm erblickt hat,
-aufgeführt:
+aufgeführt::
 
-```
-Tetos (-1,0), Ebene, 1042 Bauern, 73/5 Bäume, 10953 Silber, 132 Pferde. Im
-Nordwesten der Region liegt der Wald von Faldorn (-2,1), im Nordosten die Ebene
-von Litforuvys (-1,1), im Osten die Ebene von Tumyvesfod (0,0), im Südosten der
-Sumpf von Titymovut (0,-1), im Südwesten die Ebene von Livedfir (-1,-1) und im
-Westen das Gebirge von Nipevan (-2,0). 
-```
+  Tetos (-1,0), Ebene, 1042 Bauern, 73/5 Bäume, 10953 Silber, 132 Pferde. Im
+  Nordwesten der Region liegt der Wald von Faldorn (-2,1), im Nordosten die Ebene
+  von Litforuvys (-1,1), im Osten die Ebene von Tumyvesfod (0,0), im Südosten der
+  Sumpf von Titymovut (0,-1), im Südwesten die Ebene von Livedfir (-1,-1) und im
+  Westen das Gebirge von Nipevan (-2,0). 
 
 	"Nun, zunächst findet sich dort der Name, unter dem die Region bei den
 	Einheimischen bekannt ist, sowie ihre Position. Direkt dahinter hat der
@@ -244,22 +242,22 @@ eingeschlagen bzw. gezähmt werden.
 
 	"Sehr gut, Rahel. Und was steht in den Zeilen darunter vermerkt?" 
 
-```
-Auf dem Markt wird für Weihrauch 4 Silber verlangt. Geboten wird für Balsam
-12 Silber, für Gewürz 10 Silber, für Juwelen 21 Silber, für Myrrhe 15 Silber,
-für Öl 12 Silber und für Seide 30 Silber.
+::
 
-Statistik für Tetos (-1,0):
+  Auf dem Markt wird für Weihrauch 4 Silber verlangt. Geboten wird für Balsam
+  12 Silber, für Gewürz 10 Silber, für Juwelen 21 Silber, für Myrrhe 15 Silber,
+  für Öl 12 Silber und für Seide 30 Silber.
 
-Unterhaltung: max. 547 Silber
-Lohn für Arbeit: 11 Silber
-Rekrutieren: max. 26 Bauern
-Luxusgüter zum angegebenen Preis: 10
-Personen: 20
-Pferde: 4 Holz: 13
-Silber: 821
-Schwerter: 2
-```
+  Statistik für Tetos (-1,0):
+
+  Unterhaltung: max. 547 Silber
+  Lohn für Arbeit: 11 Silber
+  Rekrutieren: max. 26 Bauern
+  Luxusgüter zum angegebenen Preis: 10
+  Personen: 20
+  Pferde: 4 Holz: 13
+  Silber: 821
+  Schwerter: 2
 
 	Stolz strahlte die junge Novizin ihre offenbar zufriedene Lehrerin an. "Dabei,
 	Magistra, handelt um weitere Informationen, die unsere Kundschafter
@@ -335,7 +333,7 @@ Die Zeitrechnung Eresseas
 	etwas Gutes zu finden." 
 
 	Bis spät in den Abend konnten die Tempelwachen die beiden stumm durch den
-magisch erleuchteten Park wandern sehen ...
+	magisch erleuchteten Park wandern sehen ...
 
 Das Jahr ist in der Welt von Eressea in neun Monate zu je drei Wochen eingeteilt:
 
