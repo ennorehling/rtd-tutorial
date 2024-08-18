@@ -31,8 +31,12 @@ Bauern und verschiedene Rohstoffe.
 	eine Insel, die gerade erst eingetragen wurde. Erkennst du, wie unsere
 	Kartographen arbeiten?" 
 
+..
+
 .. image:: images/map.jpeg
-  :alt: Mit CSMap erstellte Karte
+	:alt: Mit CSMap erstellte Karte
+
+..
 
 	Angestrengt betrachtete die Novizin die Karte. Offenbar hatte man sich bei ihrer
 	Erstellung auf das wesentliche beschränkt und die entdeckten Landstriche nur
@@ -223,11 +227,13 @@ Im Report werden alle Regionen, in denen man eine Einheit hat, durch die man
 gereist ist oder Ozean-Regionen, die man von einem Leuchtturm erblickt hat,
 aufgeführt::
 
-  Tetos (-1,0), Ebene, 1042 Bauern, 73/5 Bäume, 10953 Silber, 132 Pferde. Im
-  Nordwesten der Region liegt der Wald von Faldorn (-2,1), im Nordosten die Ebene
-  von Litforuvys (-1,1), im Osten die Ebene von Tumyvesfod (0,0), im Südosten der
-  Sumpf von Titymovut (0,-1), im Südwesten die Ebene von Livedfir (-1,-1) und im
-  Westen das Gebirge von Nipevan (-2,0). 
+	Tetos (-1,0), Ebene, 1042 Bauern, 73/5 Bäume, 10953 Silber, 132 Pferde. Im
+	Nordwesten der Region liegt der Wald von Faldorn (-2,1), im Nordosten die Ebene
+	von Litforuvys (-1,1), im Osten die Ebene von Tumyvesfod (0,0), im Südosten der
+	Sumpf von Titymovut (0,-1), im Südwesten die Ebene von Livedfir (-1,-1) und im
+	Westen das Gebirge von Nipevan (-2,0). 
+
+..
 
 	"Nun, zunächst findet sich dort der Name, unter dem die Region bei den
 	Einheimischen bekannt ist, sowie ihre Position. Direkt dahinter hat der
@@ -258,6 +264,8 @@ eingeschlagen bzw. gezähmt werden.
   Pferde: 4 Holz: 13
   Silber: 821
   Schwerter: 2
+
+..
 
 	Stolz strahlte die junge Novizin ihre offenbar zufriedene Lehrerin an. "Dabei,
 	Magistra, handelt um weitere Informationen, die unsere Kundschafter
